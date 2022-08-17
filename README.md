@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YEWPO
-- 👀 I’m interested in C/C++，java
-- 🌱 I’m currently learning java
+- 👀 I’m interested in nth
+- 🌱 I’m currently learning nth
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 2398696309@qq.com
 <!---
