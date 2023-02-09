@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 [![YEWPO's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEWPO&show_icon=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YEWPO)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YEWPO&layout=compact&langs_count=10&theme=radical&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
