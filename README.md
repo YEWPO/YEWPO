@@ -6,10 +6,10 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=YEWPO&show_icon=true&theme=buefy&hide_border=true" align="left" />
       </td>
-      <td valign="top" width="50%">
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEWPO&layout=compact&langs_count=10&theme=buefy&hide_border=true" align="left" />
       </td>
     </tr>
