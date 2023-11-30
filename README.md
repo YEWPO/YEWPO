@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YEWPO
-- 👀 I’m interested in Digital Design
+- 👀 I’m interested in Computer Architecture & Operating System
 - 🌱 I’m majoring in Software Engineering
 - 📫 You can reach me 2398696309@qq.com
 
