@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YEWPO
-- 👀 I’m interested in Computer Architecture & Operating System
+- 👀 I’m interested in Computer Architecture
 - 🌱 I’m majoring in Software Engineering
-- 📫 You can reach me 2398696309@qq.com
+- 📫 You can reach me mengx629@gmail.com
 
 <div align="center">
   <table>
