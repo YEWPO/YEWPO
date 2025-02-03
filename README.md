@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @YEWPO
-- 👀 I’m interested in Computer Architecture
-- 🌱 I’m majoring in Software Engineering
-- 📫 You can reach me mengx629@gmail.com
+# Hi there, I'm @YEWPO 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=YEWPO&color=blueviolet)
+
+Welcome to my GitHub profile!
+
+## 🚀 About Me
+- 👯 I'm looking for help with [LRL52](https://github.com/LRL52).
+- 👀 I’m interested in Computer Architecture and System Software.
+- 🔭 I'm currently working on Trusted Execution Environment and Confidential Virtual Machine.
+- 🌱 My undergraduate major is Software Engineering, and I will be pursuing a master's degree in Computer Science in following years.
+- 📫 You can reach me mengx629@gmail.com.
 
 <div align="center">
   <table>
@@ -15,3 +23,5 @@
     </tr>
   </table>
 </div>
+
+Having a good day! 🙂
