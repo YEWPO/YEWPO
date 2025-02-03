@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 👀 I’m interested in Computer Architecture and System Software.
 - 🔭 I'm currently working on Trusted Execution Environment and Confidential Virtual Machine.
 - 🌱 My undergraduate major is Software Engineering, and I will be pursuing a master's degree in Computer Science in following years.
-- 📫 You can reach me mengx629@gmail.com.
+- 📫 You can reach me: mengx629 AT gmail.com.
 
 <div align="center">
   <table>
@@ -23,5 +23,3 @@ Welcome to my GitHub profile!
     </tr>
   </table>
 </div>
-
-Having a good day! 🙂
