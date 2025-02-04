@@ -1,6 +1,6 @@
 # Hi there, I'm @YEWPO 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YEWPO&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=YEWPO&color=blueviolet&style=flat-square)
 
 Welcome to my GitHub profile!
 
@@ -10,6 +10,10 @@ Welcome to my GitHub profile!
 - 🔭 I'm currently working on Trusted Execution Environment and Confidential Virtual Machine.
 - 🌱 My undergraduate major is Software Engineering, and I will be pursuing a master's degree in Computer Science in following years.
 - 📫 You can reach me: mengx629 AT gmail.com.
+
+You can get more articles from my 🖋 [Blog Website](https://www.yewpo.top).
+
+## 🎯 Github Stats
 
 <div align="center">
   <table>
