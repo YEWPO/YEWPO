@@ -15,15 +15,4 @@ You can get more articles from my 🖋 [Blog Website](https://www.yewpo.top).
 
 ## 🎯 Github Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YEWPO&show_icon=true&theme=buefy&hide_border=true" align="left" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEWPO&layout=compact&langs_count=10&theme=buefy&hide_border=true" align="left" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=YEWPO&show_icon=true&theme=buefy&hide_border=true" align="left" />
