@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 👯 I'm looking for help with [LRL52](https://github.com/LRL52).
 - 👀 I’m interested in Computer Architecture and System Software.
 - 🔭 I'm currently working on Trusted Execution Environment and Confidential Virtual Machine.
-- 🌱 My undergraduate major is Software Engineering, and I will be pursuing a master's degree in Computer Science in following years.
+- 🌱 My undergraduate major is Software Engineering, and now I'm studying for a master's degree in Computer Science.
 - 📫 You can reach me: mengx629 AT gmail.com.
 
 You can get more articles from my 🖋 [Blog Website](https://www.yewpo.top).
